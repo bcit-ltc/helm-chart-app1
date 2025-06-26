@@ -1,2 +1,5 @@
 # helm-chart-app1
-helm chart for app 1
+
+Helm chart for app 1.
+
+This could be modified to be a template for future charts.

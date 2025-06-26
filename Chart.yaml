@@ -1,0 +1,10 @@
+apiVersion: v2
+name: app1
+description: App1 is an example application for helm chart development.
+version: 0.0.1
+appVersion: "1.0.0"
+maintainers:
+  - name: BCIT LTC
+    url: https://www.bcit.ca/learning-teaching-centre/
+sources:
+  - https://github.com/bcit-ltc/
